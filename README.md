@@ -1,4 +1,4 @@
-#Hi ! <img src="https://giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> My name is Supasin Saetang
+<h1>Hi ! <img src="https://giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> My name is Supasin Saetang </h1>
 
 Front-end Developer
 -------------------
