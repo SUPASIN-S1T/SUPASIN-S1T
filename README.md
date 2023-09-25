@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 Hi ! My name is Supasin Saetang
-=======================================================================================================================================
 
 Front-end Developer
 -------------------
