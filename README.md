@@ -4,7 +4,6 @@ Front-end Developer
 -------------------
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [supasin-s1t](http://supasin-s1t.github.io/website-portfolio/)
 * ✉️  You can contact me at [supasin.s1t@gmail.com](mailto:supasin.s1t@gmail.com)
 * 🧠  I'm learning React JS
 
