@@ -5,7 +5,6 @@ Front-end Developer
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [supasin.s1t@gmail.com](mailto:supasin.s1t@gmail.com)
-* 🧠  I'm learning React JS
 
 <a href="https://www.x.com/zFOFYFz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/zFOFYFz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
